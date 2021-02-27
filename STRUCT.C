@@ -6,7 +6,7 @@ struct employee
 }emp[100];
 void main()
 {
-	int i, n=2;
+	int i, n=20;
 	clrscr();
 	printf("Enter employee info as Number, Name, Department Name, Age, Phone Number, Salary");
 	for(i=0; i<n; i++)
