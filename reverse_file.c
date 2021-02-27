@@ -38,7 +38,7 @@ void main()
     }
     else
     {
-        perror("Error occured\n");
+        perror("\nError occured\n");
     }
     fclose(fp1);
     fclose(fp2);
