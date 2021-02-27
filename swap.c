@@ -7,5 +7,5 @@ scanf("%d %d",&a,&b);
 a = a^b;
 b = a^b;
 a = a^b;
-printf("Numbers after swapping: %d %d", a,b);
+printf("\nNumbers after swapping: %d %d", a,b);
 }
